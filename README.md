@@ -48,6 +48,7 @@ This project aims to simulate customer support interactions using an AI-powered 
 *   **Frontend (Optional)::** HTML, CSS, JavaScript (Fetch API)
 
 ## 4. Project Structure
+```
 ai_chatbot_support/
 ├── .env.example # Template for environment variables
 ├── .gitignore # Specifies intentionally untracked files to ignore
@@ -58,3 +59,4 @@ ai_chatbot_support/
 ├── requirements.txt # Python dependencies
 └── static/ # Frontend static files (HTML, CSS, JS)
 └── index.html # Main chat interface HTML file
+```
