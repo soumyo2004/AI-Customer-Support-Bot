@@ -1,0 +1,9 @@
+[
+  {"id": 1, "question": "How do I reset my password?", "answer": "You can reset your password by visiting our login page and clicking on the 'Forgot Password' link."},
+  {"id": 2, "question": "What are your business hours?", "answer": "Our customer support team is available Monday to Friday, from 9 AM to 5 PM EST."},
+  {"id": 3, "question": "How can I contact technical support?", "answer": "You can reach technical support by emailing support@example.com or calling us at 1-800-TECH-HELP."},
+  {"id": 4, "question": "What is your refund policy?", "answer": "We offer a 30-day money-back guarantee for all products. Items must be in original condition."},
+  {"id": 5, "question": "Where can I find my order history?", "answer": "Your order history is available in your account dashboard under the 'My Orders' section after you log in."},
+  {"id": 6, "question": "Do you ship internationally?", "answer": "Yes, we ship to most international destinations. Shipping costs and times vary by country."},
+  {"id": 7, "question": "How do I update my shipping address?", "answer": "You can update your shipping address in your account settings. Please ensure it's updated before placing a new order."}
+]
