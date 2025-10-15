@@ -6,23 +6,6 @@
 - [2. Features](#2-features)
 - [3. Technical Stack](#3-technical-stack)
 - [4. Project Structure](#4-project-structure)
-- [5. Setup and Installation](#5-setup-and-installation)
-  - [Prerequisites](#prerequisites)
-  - [Step-by-Step Installation](#step-by-step-installation)
-- [6. Running the Application](#6-running-the-application)
-  - [Backend API](#backend-api)
-  - [Frontend Chat UI](#frontend-chat-ui)
-- [7. API Endpoints](#7-api-endpoints)
-  - [`POST /chat`](#post-chat)
-- [8. LLM Integration & Prompt Engineering](#8-llm-integration--prompt-engineering)
-  - [System Prompt](#system-prompt)
-  - [Conversation History & Context](#conversation-history--context)
-  - [FAQ Integration](#faq-integration)
-  - [Escalation Logic](#escalation-logic)
-- [9. Database Schema](#9-database-schema)
-- [10. Demo Video](#10-demo-video)
-- [11. Evaluation Focus](#11-evaluation-focus)
-- [12. License](#12-license)
 
 ---
 
