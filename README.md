@@ -1,7 +1,5 @@
 # AI Customer Support Bot
 
-![Chatbot Demo](https://via.placeholder.com/600x300?text=Chatbot+Screenshot+or+Demo+GIF)
-
 ## Table of Contents
 
 - [1. Objective](#1-objective)
